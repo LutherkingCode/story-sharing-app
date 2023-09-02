@@ -1,0 +1,26 @@
+/* home.module.css */
+
+.homeContainer {
+    text-align: center;
+    padding: 2rem;
+    background-image: url('https://wallpaperaccess.com/full/1881717.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    color: black;
+  }
+  
+  .heading {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: black; /* Adjust text color for visibility */
+  }
+  
+  .subheading {
+    font-size: 1.2rem;
+    color: #ccc; /* Adjust text color for visibility */
+    margin-bottom: 2rem;
+  }
+  

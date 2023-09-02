@@ -1,0 +1,50 @@
+/* story.module.css */
+.storyContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  .user {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .date {
+    font-size: 0.8rem;
+    color: #888;
+  }
+  
+  .content {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  .buttonContainer {
+    margin-top: 15px;
+  }
+  
+  .buttonContainer button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 15px;
+    font-size: 1rem;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  .buttonContainer button:hover {
+    background-color: #0056b3;
+  }
+  
