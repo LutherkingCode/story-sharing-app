@@ -1,7 +1,7 @@
 {
   "name": "story-sharing-app",
   "version": "0.1.0",
-  "homepage": "http://LutherkingCode.github.io/story-sharing",
+  "homepage": "http://LutherkingCode.github.io/story-sharing-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
