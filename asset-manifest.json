@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b56be32.css",
-    "main.js": "/static/js/main.04c113ae.js",
-    "static/js/787.d1c27d30.chunk.js": "/static/js/787.d1c27d30.chunk.js",
-    "index.html": "/index.html",
-    "main.5b56be32.css.map": "/static/css/main.5b56be32.css.map",
-    "main.04c113ae.js.map": "/static/js/main.04c113ae.js.map",
-    "787.d1c27d30.chunk.js.map": "/static/js/787.d1c27d30.chunk.js.map"
+    "main.css": "/story-sharing-app/static/css/main.5b56be32.css",
+    "main.js": "/story-sharing-app/static/js/main.dcb07711.js",
+    "static/js/787.d1c27d30.chunk.js": "/story-sharing-app/static/js/787.d1c27d30.chunk.js",
+    "index.html": "/story-sharing-app/index.html",
+    "main.5b56be32.css.map": "/story-sharing-app/static/css/main.5b56be32.css.map",
+    "main.dcb07711.js.map": "/story-sharing-app/static/js/main.dcb07711.js.map",
+    "787.d1c27d30.chunk.js.map": "/story-sharing-app/static/js/787.d1c27d30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b56be32.css",
-    "static/js/main.04c113ae.js"
+    "static/js/main.dcb07711.js"
   ]
 }
